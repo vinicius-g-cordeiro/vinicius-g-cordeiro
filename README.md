@@ -3,7 +3,7 @@
 
 [<img src="file.png" width="256" height="256"> ](https://github.com/vinicius-g-cordeiro)
 
-### Apaixonado por programação desde 2013 (11 anos de programação 😝) ### 
+### Apaixonado por programação desde 2014 (11 anos e alguns meses de programação 😝) ### 
 ```php
 <?php
 /**
