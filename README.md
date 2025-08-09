@@ -118,7 +118,7 @@ $pessoa = new Pessoa(
     26,
     'vinicordeirogo@gmail.com',
     '+55 61 * ****-****',
-    ['PHP', 'C++', 'Javascript', 'Phyton'],
+    ['PHP', 'C++', 'Javascript', 'Python'],
     'Lasagna',
     [
         'Grand Theft Auto: San Andreas', 'Grand Theft Auto IV', 'Fallout New Vegas',
