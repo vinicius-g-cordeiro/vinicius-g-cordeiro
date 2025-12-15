@@ -116,7 +116,7 @@ use App\Pessoa;
 $pessoa = new Pessoa(
     'Vinícius Gonçalves Cordeiro',
     26,
-    'vinicordeirogo@gmail.com',
+    'vini*********@********.com',
     '+55 61 * ****-****',
     ['PHP', 'C++', 'Javascript', 'Python'],
     'Lasagna',
